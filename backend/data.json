@@ -1,18 +1,14 @@
 [
     {
-        "name": "dsf",
-        "email": "sd@g.g"
+        "name": "Test",
+        "email": "test@example.com"
     },
     {
-        "name": "dsf",
-        "email": "sd@g.g"
+        "name": "John",
+        "email": "av@g.c"
     },
     {
-        "name": "dsfdf",
-        "email": "sd@g.g"
-    },
-    {
-        "name": "sdsd",
-        "email": "dsf@g.c"
+        "name": "abcc",
+        "email": "av@g.c"
     }
 ]
